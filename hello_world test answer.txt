@@ -1,0 +1,7 @@
+1 class HelloWorld
+2  class << self
+3    def hello
+4      "Hello,World!
+5         end
+6     end
+7 end
